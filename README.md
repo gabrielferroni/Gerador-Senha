@@ -1,4 +1,4 @@
-<h1>Gerador de Senha</h1>
+<h1>Gerador de Senhas</h1>
     <p>Neste pequeno projeto estou colocando em pratica os conceitos importantes de como integrar 
         comandos do navegador (HTML e CSS) com a linguagem JavaScript,
         além de construir este projeto completo ultilizando o conhecimento dos cursos anteriores: </p>
